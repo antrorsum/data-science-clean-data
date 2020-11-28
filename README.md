@@ -1,6 +1,9 @@
 # run_analysis.R
 
-This repository contains the following files- 1) Raw Data 2) Script run_analysis.r 3) Tidy Data 4) Code Book
+This repository contains the following files
+ - Raw Data
+ - Script run_analysis.r
+ - Code Book
 
 ## Data set information:
 
